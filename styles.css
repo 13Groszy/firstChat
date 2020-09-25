@@ -1,0 +1,53 @@
+.container{
+    max-width: 500px;
+    margin: 24px 0 24px;
+ }
+h1{margin-top: 10px;
+    text-align: center;}
+li{
+    margin: 5px;
+    font-size: 1.2em;
+    list-style-type: none;
+    padding: 10px;
+    border: #999999 1px solid;
+    border-radius: 5px;
+    }
+.btn{
+    background: #43d9be;
+    color: white;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+}
+.choose{
+    font-size: 2em;}
+.username{
+    font-weight: bold;
+}
+.chat-rooms{
+    text-align: center;
+}
+.time{
+    font-size: 0.7em;
+    color: #999;
+}
+.mssg{
+    background-color: lightgrey;
+    width: 100px;
+    height: 30px;
+    font-size: 1.3em;
+    border: #999999 1px solid;
+    border-radius: 5px;
+    text-align: justify;
+}
+.display{display: flex;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 0;
+    margin: 0 60px 0;
+}
+input{
+    border-radius: 5px;
+}
